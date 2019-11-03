@@ -1,0 +1,30 @@
+Use :help to get help.
+
+To exit out of help, type
+:q<ENTER>
+
+You can specify a command to get help with, too.
+:help <COMMAND>
+
+For example, if you wanted to know what "dd" does, type:
+:help dd<ENTER>
+
+You can also get help on a given subject:
+:help {subject}
+
+Example:
+:help count
+
+You can even get help with :help.
+:help :help<ENTER>
+
+The short version of the :help command is :h
+
+To switch between the help window and the editing window, use CTRL-W CTRL-W
+Ctrl-o to navigate backwards
+Ctrl-i to navigate forwards
+if there is text highlighted in help you can put the cursor there then press Ctrl-] to jump.
+to change window press ctrl-w ctrl-w. (twice).
+to list all command within help (autocompletion) you can press Ctrl-d. for example :help :q (ctrl-d) 
+you can also use <tab> to get the predicted command
+:h ^f# Note, using a caret symbol is the same as "Ctrl".
