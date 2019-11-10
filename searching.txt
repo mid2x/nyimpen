@@ -1,0 +1,56 @@
+Searching forward is accomplished by typing f{char}.  Also, zebras eat grass.  
+we can repeat forward using ';' or backwords using ','
+t is used to search to one character before the char
+Delete word we can delete using 'dtw' or 'df '.
+
+to search string use '/{string}' then press enter, continue using n
+this is search forward
+to highlight the word, make sure the is setting is turned on (incsearch)
+to make it permanently highlighted use hls (highlightsearch)
+to search backwords use ?{string}
+to search in nearest word your cursor is in use '*'
+to search backwards use '#'
+to search and replace use ':[range]s/old/new/[flag]'
+flags:
+g to change all 
+range:
+is use to determine the changes range, usually number seperated with coma proceed with another number i.e. 1,5 means line 1 to five. $ is used to replace last line and . as the current line % is all line or search in whole file
+Adam's aunt ate apples and acorns around August.
+Beth's beagle barked and bayed, becoming bothersome for Billy by the bay.
+Cathy's cat clawed her couch, creating chaos.
+Doug's dog dove deep in the dam, drinking dirty water as he dove.
+Erin's eagle eats eggs, enjoying each episode of eating.
+Fran's friends fried Fritos for Friday's food.
+Gertrude's giraffe gobbled gooseberryies greedily, getting good at grabbing goodies.
+Harry's home has heat hopefully.
+Isaac's ice cream is interesting and Isaac is imbibing it.
+Jason's jaguar is jumping and jiggling jauntily.
+Kate's kid's kept kiting.
+Lorri's lizard likes leaping leopards.
+Michael's microphone made much music.
+Nellie's nephew needed new notebooks now not never.
+Oliver's owl out-performed ostriches.
+Paul's piglet pranced priggishly.
+Quinn's quilters quit quilting quickly.
+Randy's reindeer rose rapidly and ran round the room.
+Sam's seven sisters slept soundly in sand.
+Terri's took tons of tools to make toys for tots.
+Uncle Umar's united union uses umbrellas.
+Victoria's very vixen-like and vexing.
+Wallis walked wearily while wondering where Wally was.
+Yolanda yanked you at yoga, and Yvette yelled.
+Zeke zeroed in on zoo keeping.
+
+# Global configuration
+
+DOMAIN=example.org			# The example.org domain.
+MAIL_SERVER=mail.example.net
+MAIL_PATH=/var/spool/mail
+
+# Local configuration
+
+LOCAL_DOMAIN=internal.example.net	# The internal.example.net domain.
+LOCAL_MAIL_SERVER=mail.internal.example.net
+MAIL_PATH=/var/spool/mail
+
+This training is provided by LinuxTrainingAcademy.com.
