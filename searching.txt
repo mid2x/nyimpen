@@ -17,7 +17,7 @@ range:
 is use to determine the changes range, usually number seperated with coma proceed with another number i.e. 1,5 means line 1 to five. $ is used to replace last line and . as the current line % is all line or search in whole file
 Adam's aunt ate apples and acorns around August.
 Beth's beagle barked and bayed, becoming bothersome for Billy by the bay.
-Cathy's cat clawed her couch, creating chaos.
+Cathy's kucing clawed her couch, creating chaos.
 Doug's dog dove deep in the dam, drinking dirty water as he dove.
 Erin's eagle eats eggs, enjoying each episode of eating.
 Fran's friends fried Fritos for Friday's food.
