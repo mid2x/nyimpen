@@ -1,0 +1,35 @@
+This is a sentence comprised of many words.  This is another sentence. A 
+'daw' = delete a word this includes the white space or tags
+'diw' = delete inner word this exclude the white space or tags
+{operator}{a}{object}
+{operator}{i}{object}
+w is word
+s is sentence
+p is pharagraph
+you can also use brackets either <>, [], {}, () or other patterns
+paragraph is made up of multiple sentences.  Just like this one!
+
+This is also paragraph.
+No only is it made up of multiple sentences, it's made up of multiple lines.
+This is the last line in this paragraph.
+
+colors = [this is something new]
+print(inside)
+
+to change a tag (HTML or XML) you can use 't' as tags
+
+<html>
+<p>This is <strong>hamid</strong> cool!</p>
+<i_made_this_up>There is text here.</i_made_this_up>
+
+scores = {
+  'boars': 6, 
+  'saints': 7,
+  'bandits': 0
+}
+
+BACKUP_SERVER="backup1"
+MAIL_SERVER='newmail1'
+HOST=`hostname`
+
+This training is provided by LinuxTrainingAcademy.com.
